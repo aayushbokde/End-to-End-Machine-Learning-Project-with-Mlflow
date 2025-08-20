@@ -10,3 +10,8 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the app.py
+
+__________________
+this repo was solely created for experimenting and understanding the use of different files.
+how the complete implementation takes place in the real world applications or webapps 
+all the logging and the configuration really learnt something new.
